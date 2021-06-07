@@ -1,0 +1,6 @@
+[submodule "PortHandlerCoursework"]
+	path = PortHandlerCoursework
+	url = git@github.com:VtorovN/PortHandlerCoursework.git
+[submodule "FullPortHandler"]
+	path = FullPortHandler
+	url = git@github.com:VtorovN/PortHandlerCoursework.git
